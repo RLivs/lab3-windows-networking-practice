@@ -1,11 +1,11 @@
 # Lab 01 — Static IP Configuration in Windows (VirtualBox NAT)
 
-## 🧠 Goal
+## Goal
 Learn how to manually configure a static IP address in Windows, verify network parameters (IP, subnet mask, gateway, DNS), and test connectivity using `ping` and `nslookup`.
 
 ---
 
-## 🧪 Steps and Results
+## Steps and Results
 
 | Step | Description | Screenshot |
 |------|-------------|------------|
